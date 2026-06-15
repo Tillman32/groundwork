@@ -101,6 +101,14 @@ groundwork/
 2. Build to `plugins/` directory
 3. Register via API or registry sync
 
+## Documentation
+
+- [Installation](docs/installation.md)
+- [Configuration](docs/configuration.md)
+- [Plugins](docs/plugins.md)
+- [API Reference](docs/api.md)
+- [Contributing](docs/contributing.md)
+
 ## License
 
 MIT
